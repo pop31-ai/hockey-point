@@ -1,0 +1,395 @@
+================================================================================
+        КОММЕРЧЕСКОЕ ПРЕДЛОЖЕНИЕ — ХОККЕЙ (HOCKEY-POINT)
+        COMMERCIAL OFFER — HOCKEY (HOCKEY-POINT)
+        COMMERZIELLES ANGEBOT — EISHOCKEY (HOCKEY-POINT)
+        OFFRE COMMERCIALE — HOCKEY (HOCKEY-POINT)
+        OFERTA COMERCIAL — HOCKEY (HOCKEY-POINT)
+        商业提案 — 冰球 (HOCKEY-POINT)
+        عرض تجاري — هوكي (HOCKEY-POINT)
+================================================================================
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+                         [RU] РУССКИЙ
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+КОММЕРЧЕСКОЕ ПРЕДЛОЖЕНИЕ: ХОККЕЙ (HOCKEY-POINT)
+=================================================
+
+Дата: 17 июля 2026
+От: pop31-ai
+Тема: Аркадная хоккейная игра в браузере — AI + игрок
+
+───── ОПИСАНИЕ ПРОДУКТА ─────
+
+Хоккей (Hockey-Point) — это браузерная аркадная игра с видом сверху, в которой
+искусственный интеллект управляет обеими командами (5 полевых + вратарь), а
+пользователь берёт на себя управление одним полевым игроком, влияя на исход матча.
+
+КЛЮЧЕВЫЕ ХАРАКТЕРИСТИКИ:
+
+  • AI управляет всеми игроками — игра идёт сама, игрок добавляет решающий фактор
+  • Анимированные сцены: вбрасывание судьёй, драки, заморозка шайбы вратарём,
+    свисток с кольцами, смена составов через скамейку запасных
+  • Полноценный матч: 3 периода × 60 секунд, смена сторон
+  • Трибуны с анимированной толпой
+  • Звуковые эффекты через Web Audio API (без внешних файлов)
+  • 1 HTML-файл — открыл и играешь, не требуется интернет
+
+ТЕХНОЛОГИИ:
+  Чистый JavaScript (ES6+) | Canvas 2D | Web Audio API
+  Размер: ~50 КБ (сжатый ~18 КБ)
+  Платформа: любой современный браузер (Chrome, Firefox, Edge, Safari)
+
+МОНЕТИЗАЦИЯ:
+
+  1. Лицензирование (игровые порталы, браузерные платформы)
+  2. Private label / white label для турниров и мероприятий
+  3. Расширенная версия с дополнительными режимами (2 игрока, онлайн)
+  4. Интеграция рекламы (in-game баннеры, видео перед матчем)
+
+ЦЕЛЕВАЯ АУДИТОРИЯ:
+  • Поклонники хоккея всех возрастов
+  • Любители казуальных браузерных игр
+  • Организаторы спортивных мероприятий (киоски, фан-зоны)
+  • Корпоративные клиенты (тимбилдинг, мини-турниры)
+
+СТАТУС: v2.1 — рабочий прототип, готовый к публичному запуску и масштабированию.
+
+КОНТАКТЫ:
+  Репозиторий: github.com/pop31-ai/hockey-point
+  Лицензия: индивидуально
+
+────────────────────────────────────────────────────────────────────────────────
+
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+                         [EN] ENGLISH
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+COMMERCIAL OFFER: HOCKEY (HOCKEY-POINT)
+=========================================
+
+Date: July 17, 2026
+From: pop31-ai
+Subject: Browser-based Arcade Hockey Game — AI + Player
+
+───── PRODUCT DESCRIPTION ─────
+
+Hockey (Hockey-Point) is a browser-based top-down arcade game where artificial
+intelligence controls both teams (5 skaters + goalie), and the user takes control
+of one skater to influence the match outcome.
+
+KEY FEATURES:
+
+  • AI controls all players — the game runs itself, the player adds the
+    deciding factor
+  • Animated scenes: referee face-off, fights, goalie freeze puck, whistle
+    rings, line changes via the bench
+  • Full match: 3 periods × 60 seconds, side switching
+  • Crowd stands with animated spectators
+  • Sound effects via Web Audio API (no external files)
+  • Single HTML file — open and play, no internet required
+
+TECHNOLOGY:
+  Pure JavaScript (ES6+) | Canvas 2D | Web Audio API
+  Size: ~50 KB (compressed ~18 KB)
+  Platform: any modern browser (Chrome, Firefox, Edge, Safari)
+
+MONETIZATION:
+
+  1. Licensing (gaming portals, browser platforms)
+  2. Private label / white label for tournaments and events
+  3. Extended version with additional modes (2-player, online)
+  4. Ad integration (in-game banners, pre-match video)
+
+TARGET AUDIENCE:
+  • Hockey fans of all ages
+  • Casual browser game enthusiasts
+  • Sports event organizers (kiosks, fan zones)
+  • Corporate clients (team building, mini-tournaments)
+
+STATUS: v2.1 — working prototype, ready for public launch and scaling.
+
+CONTACTS:
+  Repository: github.com/pop31-ai/hockey-point
+  License: individual
+
+────────────────────────────────────────────────────────────────────────────────
+
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+                         [DE] DEUTSCH
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+KOMMERZIELLES ANGEBOT: EISHOCKEY (HOCKEY-POINT)
+=================================================
+
+Datum: 17. Juli 2026
+Von: pop31-ai
+Betreff: Browser-basiertes Arcade-Eishockeyspiel — KI + Spieler
+
+───── PRODUKTBESCHREIBUNG ─────
+
+Eishockey (Hockey-Point) ist ein browserbasiertes Arcade-Spiel mit Draufsicht, bei
+dem künstliche Intelligenz beide Teams steuert (5 Feldspieler + Torwart) und der
+Benutzer einen Feldspieler steuert, um das Spiel zu beeinflussen.
+
+HAUPTMERKMALE:
+
+  • KI steuert alle Spieler — das Spiel läuft von selbst, der Spieler
+    entscheidet
+  • Animierte Szenen: Bully durch Schiedsrichter, Schlägereien, Puck-
+    einfrieren durch Torwart, Schiedsrichterpfiff, Wechsel über die Bank
+  • Volles Spiel: 3 Drittel × 60 Sekunden, Seitenwechsel
+  • Zuschauerränge mit animierter Menge
+  • Soundeffekte via Web Audio API (keine externen Dateien)
+  • Einzelne HTML-Datei — öffnen und spielen, kein Internet nötig
+
+TECHNOLOGIE:
+  Reines JavaScript (ES6+) | Canvas 2D | Web Audio API
+  Größe: ~50 KB (komprimiert ~18 KB)
+  Plattform: jeder moderne Browser (Chrome, Firefox, Edge, Safari)
+
+MONETARISIERUNG:
+
+  1. Lizenzierung (Spieleportale, Browser-Plattformen)
+  2. Private Label / White Label für Turniere und Events
+  3. Erweiterte Version mit zusätzlichen Modi (2-Spieler, Online)
+  4. Werbeintegration (In-Game-Banner, Pre-Match-Video)
+
+ZIELGRUPPE:
+  • Eishockey-Fans jeden Alters
+  • Liebhaber von Casual-Browser-Spielen
+  • Veranstalter von Sportereignissen (Kioske, Fan-Zonen)
+  • Firmenkunden (Teambuilding, Mini-Turniere)
+
+STATUS: v2.1 — funktionierender Prototyp, bereit für öffentlichen Start.
+
+KONTAKTE:
+  Repository: github.com/pop31-ai/hockey-point
+  Lizenz: individuell
+
+────────────────────────────────────────────────────────────────────────────────
+
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+                         [FR] FRANÇAIS
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+OFFRE COMMERCIALE : HOCKEY (HOCKEY-POINT)
+===========================================
+
+Date : 17 juillet 2026
+De : pop31-ai
+Objet : Jeu de hockey arcade dans le navigateur — IA + joueur
+
+───── DESCRIPTION DU PRODUIT ─────
+
+Hockey (Hockey-Point) est un jeu d'arcade en vue de dessus dans le navigateur où
+l'intelligence artificielle contrôle les deux équipes (5 joueurs + gardien) et
+l'utilisateur prend le contrôle d'un joueur pour influencer le résultat.
+
+FONCTIONNALITÉS CLÉS :
+
+  • L'IA contrôle tous les joueurs — le jeu se déroule seul, le joueur
+    fait la différence
+  • Scènes animées : mise au jeu par l'arbitre, bagarres, arrêt du palet
+    par le gardien, coup de sifflet, changements de ligne via le banc
+  • Match complet : 3 tiers × 60 secondes, changement de côté
+  • Tribunes avec foule animée
+  • Effets sonores via Web Audio API (pas de fichiers externes)
+  • Un seul fichier HTML — ouvrir et jouer, pas d'internet requis
+
+TECHNOLOGIE :
+  JavaScript pur (ES6+) | Canvas 2D | Web Audio API
+  Taille : ~50 Ko (compressé ~18 Ko)
+  Plateforme : tout navigateur moderne (Chrome, Firefox, Edge, Safari)
+
+MONÉTISATION :
+
+  1. Licence (portails de jeux, plateformes navigateur)
+  2. Marque blanche pour tournois et événements
+  3. Version étendue avec modes supplémentaires (2 joueurs, en ligne)
+  4. Intégration publicitaire (bannières dans le jeu, vidéo pré-match)
+
+PUBLIC CIBLE :
+  • Fans de hockey de tous âges
+  • Amateurs de jeux de navigateur casual
+  • Organisateurs d'événements sportifs (kiosques, zones fans)
+  • Clients corporatifs (team building, mini-tournois)
+
+STATUT : v2.1 — prototype fonctionnel, prêt pour le lancement public.
+
+CONTACTS :
+  Dépôt : github.com/pop31-ai/hockey-point
+  Licence : individuelle
+
+────────────────────────────────────────────────────────────────────────────────
+
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+                         [ES] ESPAÑOL
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+OFERTA COMERCIAL : HOCKEY (HOCKEY-POINT)
+==========================================
+
+Fecha: 17 de julio de 2026
+De: pop31-ai
+Asunto: Juego de hockey arcade en el navegador — IA + jugador
+
+───── DESCRIPCIÓN DEL PRODUCTO ─────
+
+Hockey (Hockey-Point) es un juego arcade en el navegador con vista cenital donde
+la inteligencia artificial controla ambos equipos (5 jugadores + portero) y el
+usuario controla a un jugador para influir en el resultado.
+
+CARACTERÍSTICAS CLAVE :
+
+  • La IA controla a todos los jugadores — el juego avanza solo, el
+    jugador marca la diferencia
+  • Escenas animadas: saque neutral del árbitro, peleas, congelación del
+    disco por el portero, silbato con anillos, cambios de línea
+  • Partido completo: 3 períodos × 60 segundos, cambio de lados
+  • Graderío con multitud animada
+  • Efectos de sonido mediante Web Audio API (sin archivos externos)
+  • Un solo archivo HTML — abre y juega, sin necesidad de internet
+
+TECNOLOGÍA :
+  JavaScript puro (ES6+) | Canvas 2D | Web Audio API
+  Tamaño: ~50 KB (comprimido ~18 KB)
+  Plataforma: cualquier navegador moderno (Chrome, Firefox, Edge, Safari)
+
+MONETIZACIÓN :
+
+  1. Licencias (portales de juegos, plataformas de navegador)
+  2. Marca blanca para torneos y eventos
+  3. Versión extendida con modos adicionales (2 jugadores, online)
+  4. Integración de publicidad (banners en el juego, video previo)
+
+PÚBLICO OBJETIVO :
+  • Aficionados al hockey de todas las edades
+  • Amantes de los juegos casuales de navegador
+  • Organizadores de eventos deportivos (quioscos, zonas de fans)
+  • Clientes corporativos (team building, mini torneos)
+
+ESTADO : v2.1 — prototipo funcional, listo para lanzamiento público.
+
+CONTACTOS :
+  Repositorio: github.com/pop31-ai/hockey-point
+  Licencia: individual
+
+────────────────────────────────────────────────────────────────────────────────
+
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+                         [ZH] 中文 (简体)
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+商业提案：冰球 (HOCKEY-POINT)
+==============================
+
+日期：2026年7月17日
+来自：pop31-ai
+主题：基于浏览器的街机冰球游戏 — AI + 玩家
+
+───── 产品描述 ─────
+
+冰球 (Hockey-Point) 是一款基于浏览器的俯视角街机游戏。人工智能控制两支球队
+(5名前锋+守门员），玩家控制一名场上球员来影响比赛结果。
+
+主要特点：
+
+  • AI控制所有球员 — 比赛自动进行，玩家决定胜负
+  • 动画场景：裁判争球、打架、守门员冻结冰球、哨声动画、换人
+  • 完整比赛：3节 × 60秒，交换场地
+  • 看台带有动画观众
+  • 通过Web Audio API实现音效（无需外部文件）
+  • 单个HTML文件 — 打开即玩，无需网络
+
+技术：
+  纯JavaScript (ES6+) | Canvas 2D | Web Audio API
+  大小：约50 KB（压缩后约18 KB）
+  平台：任何现代浏览器（Chrome、Firefox、Edge、Safari）
+
+盈利模式：
+
+  1. 授权许可（游戏门户、浏览器平台）
+  2. 锦标赛和活动的白标解决方案
+  3. 扩展版本（2人模式、在线模式）
+  4. 广告集成（游戏内横幅、赛前视频）
+
+目标受众：
+  • 各年龄段的冰球迷
+  • 休闲浏览器游戏爱好者
+  • 体育赛事组织者（信息亭、球迷区）
+  • 企业客户（团队建设、小型锦标赛）
+
+状态：v2.1 — 工作原型，已准备好公开发布和扩展。
+
+联系方式：
+  仓库：github.com/pop31-ai/hockey-point
+  许可证：单独协商
+
+────────────────────────────────────────────────────────────────────────────────
+
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+                         [AR] العربية
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+عرض تجاري: هوكي (HOCKEY-POINT)
+===============================
+
+التاريخ: 17 يوليو 2026
+من: pop31-ai
+الموضوع: لعبة هوكي أركيد في المتصفح — ذكاء اصطناعي + لاعب
+
+───── وصف المنتج ─────
+
+هوكي (Hockey-Point) هي لعبة أركيد في المتصفح بمنظر علوي حيث يتحكم الذكاء
+الاصطناعي في كلا الفريقين (5 لاعبين + حارس مرمى) ويتحكم المستخدم في لاعب
+واحد للتأثير على نتيجة المباراة.
+
+الميزات الرئيسية:
+
+  • الذكاء الاصطناعي يتحكم في جميع اللاعبين — اللعبة تعمل بنفسها،
+    واللاعب يصنع الفارق
+  • مشاهد متحركة: مواجهة الحكم، شجارات، تجميد القرص من حارس المرمى،
+    صافرة بحلقات، تغيير الخطوط عبر دكة البدلاء
+  • مباراة كاملة: 3 فترات × 60 ثانية، تبديل الجوانب
+  • مدرجات مع جمهور متحرك
+  • مؤثرات صوتية عبر Web Audio API (بدون ملفات خارجية)
+  • ملف HTML واحد — افتح والعب، لا حاجة للإنترنت
+
+التقنية:
+  جافاسكريبت خالص (ES6+) | Canvas 2D | Web Audio API
+  الحجم: ~50 كيلوبايت (مضغوط ~18 كيلوبايت)
+  المنصة: أي متصفح حديث (كروم، فايرفوكس، إيدج، سفاري)
+
+طرق الربح:
+
+  1. الترخيص (بوابات الألعاب، منصات المتصفح)
+  2. علامة بيضاء للبطولات والفعاليات
+  3. نسخة موسعة بأوضاع إضافية (لاعبان، عبر الإنترنت)
+  4. دمج الإعلانات (لافتات داخل اللعبة، فيديو قبل المباراة)
+
+الجمهور المستهدف:
+  • عشاق الهوكي من جميع الأعمار
+  • محبو ألعاب المتصفح غير الرسمية
+  • منظمي الفعاليات الرياضية (الأكشاك، مناطق المشجعين)
+  • العملاء من الشركات (بناء الفريق، بطولات مصغرة)
+
+الحالة: v2.1 — نموذج أولي عامل، جاهز للإطلاق العام والتوسع.
+
+جهات الاتصال:
+  المستودع: github.com/pop31-ai/hockey-point
+  الترخيص: بشكل فردي
+
+────────────────────────────────────────────────────────────────────────────────
+
+
+================================================================================
+        © 2026 pop31-ai — Hockey-Point
+        All rights reserved / Все права защищены
+================================================================================
